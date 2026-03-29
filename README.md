@@ -10,29 +10,6 @@ Este repositório reúne projetos de animação desenvolvidos com o **Manim**, e
 
 A ideia é transformar conceitos abstratos em algo **visualmente compreensível e interessante**.
 
----
-
-## 📂 Estrutura do repositório
-
-```
-manim-animations/
- ├── numero-e/
- │    ├── script.py
- │    ├── assets/
- │    └── output.mp4
- │
- ├── eratostenes/
- │    ├── script.py
- │    ├── assets/
- │    └── output.mp4
- │
- └── README.md
-```
-
----
-
-
-*(mais projetos em breve...)*
 
 ---
 
